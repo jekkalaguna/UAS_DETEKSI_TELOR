@@ -1,0 +1,15 @@
+data/
+├── train/
+│   ├── images/
+│   │   ├── sample_1.jpg
+│   │   ├── sample_2.jpg
+│   ├── labels/
+│   │   ├── sample_1.txt
+│   │   ├── sample_2.txt
+│             .
+│             .
+├── val/
+│   ├── images/
+│   │   ├── sample_3.jpg
+│   ├── labels/
+│   │   ├── sample_3.txt
